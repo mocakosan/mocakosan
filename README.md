@@ -1,3 +1,4 @@
+![snake gif](https://github.com/mocakosan/mocakosan/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffaa00,100:00e5ff&height=200&section=header&text=Welcome&desc=JangSan%20GitHub%20Profile&fontSize=70&fontColor=fff&descAlign=60&descAlignY=70)
